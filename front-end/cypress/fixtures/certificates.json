@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "title": "test",
+    "year": "2020",
+    "photo": "",
+    "artist": {
+      "id": "1",
+      "name": "testName"
+    }
+
+  }
+]

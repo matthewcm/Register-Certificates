@@ -1,0 +1,28 @@
+.cert-enter {
+    opacity: 0;
+}
+.cert-enter-active {
+    opacity: 1;
+    transition: opacity 1500ms;
+}
+.cert-exit {
+    opacity: 1;
+}
+.cert-exit-active {
+    opacity: 0;
+    transition: opacity 0ms;
+}
+.form-enter {
+    opacity: 0;
+}
+.form-enter-active {
+    opacity: 1;
+    transition: opacity 1500ms;
+}
+.form-exit {
+    opacity: 1;
+}
+.form-exit-active {
+    opacity: 0;
+    transition: opacity 0ms;
+}
