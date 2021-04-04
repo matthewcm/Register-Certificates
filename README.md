@@ -78,7 +78,7 @@ Benefits of using a well-structured, pattern based implementation.
 
 - 1hr Kotlin back end.
 - 1.5 hr UI Implementation
-- 2hrs State Management
+- 1 hr State Management
 - 2hr Tests, front end, back end
 
 - ~ 5.5 hrs, also found a very hard time to find much time, 
