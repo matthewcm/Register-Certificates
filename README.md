@@ -85,3 +85,24 @@ Benefits of using a well-structured, pattern based implementation.
     as have just moved house, currently finishing off a dissertation,
     no internet until next week, 
     and very limited phone hotspot connection.
+    
+# Evaluation against the brief:
+- [X] Form to create a certificate
+- [X] Way to see all created certificates in list view
+    - [X] Pagination List
+    - [X] Thumbnails
+    - [X] Title
+    - [X] Artist
+    - [X] Year of production 
+
+## BONUS POINTS:
+- [X] Modelling artists in Database
+- [X] Server side pagination
+- [X] Sort by artist surname
+- [X] Delete Certificate
+- [X] Edit Certificate
+- [X] Responsive design (Tailwind mobile first)
+- [X] Source code (Just need to setup postgres server with CertificateCollection Database
+- [X] Tests
+- [ ] Social media share buttons (Could just be a library or simple hyperlinks)
+
