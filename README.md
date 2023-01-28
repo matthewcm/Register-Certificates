@@ -72,21 +72,8 @@ Basic logic testing with Jest.
 - Logic separated from front end as per "clean architecture"
     - Enables easier testing of front end, as testing from components is generally quite unstable.
     
-
-# Time Breakdown
-Benefits of using a well-structured, pattern based implementation.
-
-- 1hr Kotlin back end.
-- 1.5 hr UI Implementation
-- 1 hr State Management
-- 2hr Tests, front end, back end
-
-- ~ 5.5 hrs, also found a very hard time to find much time, 
-    as have just moved house, currently finishing off a dissertation,
-    no internet until next week, 
-    and very limited phone hotspot connection.
     
-# Evaluation against the brief:
+# Initial requirements
 - [X] Form to create a certificate
 - [X] Way to see all created certificates in list view
     - [X] Pagination List
@@ -95,7 +82,7 @@ Benefits of using a well-structured, pattern based implementation.
     - [X] Artist
     - [X] Year of production 
 
-## BONUS POINTS:
+## Extra
 - [X] Modelling artists in Database
 - [X] Server side pagination
 - [X] Sort by artist surname
